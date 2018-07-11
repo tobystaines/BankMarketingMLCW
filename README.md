@@ -7,16 +7,16 @@ Data is available at: https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
 1. Logistic Regression Code:
 	
-a. TS_LR_Code.m - This is the main code for the logistic regression model, which should be run to re-produce
+TS_LR_Code.m - This is the main code for the logistic regression model, which should be run to re-produce
 	   our LR results.
 	
-b. dataPrep.m - A function called by TS_LR_Code to preprocess each of the data sets before modelling
+dataPrep.m - A function called by TS_LR_Code to preprocess each of the data sets before modelling
 	
-c. minCost.m - A cost function called by TS_LR_Code
+minCost.m - A cost function called by TS_LR_Code
 	
-d. confusion.m - A function called by TS_LR_Code to produce a confusion matrix and other model performance measures
+confusion.m - A function called by TS_LR_Code to produce a confusion matrix and other model performance measures
 
 2. Other Code:
 	
-a. CourseWorkDataPrepCode.m - This takes the original data file and splits it in to training, 
+CourseWorkDataPrepCode.m - This takes the original data file and splits it in to training, 
 	   validation and test data. 
