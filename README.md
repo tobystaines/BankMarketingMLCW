@@ -20,3 +20,7 @@ confusion.m - A function called by TS_LR_Code to produce a confusion matrix and 
 	
 CourseWorkDataPrepCode.m - This takes the original data file and splits it in to training, 
 	   validation and test data. 
+
+3. Poster:
+
+NB_LR_Bank_Marketing_v1.1.pdf - Poster comparing results of this experiment with a Naive Bayes model produced by my coursework partner
